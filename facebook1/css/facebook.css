@@ -1,0 +1,168 @@
+.head
+{
+	background-color:#3b5998; 
+}
+.white
+{
+	
+	color:white;
+}
+.text
+{
+	height: 23px;
+}
+.loginbutton
+{
+	background-color: #3b5998;
+	
+	margin-top: 20px;
+}
+.footer
+{
+	background-color:#D4D9E8;
+}
+.footer_text
+{
+	font-size: 20px;
+	margin-top:30px;
+	color: #;
+}
+.footer_text1
+{
+	font-size: 35px;
+	margin-top: 20px;
+	color: black;
+}
+.footer_firstname
+{
+	width: 200px;
+	font-size: 20px;
+	border-color:#D4D9E8; 
+}
+.pdding
+{
+ 	padding: 5px;
+}
+.birthday
+{
+	font-size:20px;
+
+}
+.birth_text
+{
+	font-size: 9px;
+	color: blue;
+}
+.gender_padding
+{
+	padding-top:10px;
+}
+.female_padding
+{
+	padding-left: 20px;
+}
+.byclicking
+{
+	font-size: 13px;
+	padding-top: 10px;
+}
+.create_account
+{
+	background-color:green;
+	
+	color: white;
+	font-size: 15px;
+}
+.bt_padding
+{
+	padding-top: 20px;
+}
+.bt1_padding
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.bootom_footer
+{
+	background-color: white;
+}
+.english
+{
+padding-top: 10px;
+}
+.list
+{
+	padding-left: 30px;
+}
+
+
+
+
+
+.signup
+{
+	margin-left: 40px;
+	margin-top: 50px;
+
+}
+.login
+{
+
+	background-color: white;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	border-radius: 5px;
+	border:1px solid lightgray;
+	
+	
+}
+.fb_login
+{
+	padding-top: 10px;
+	color: #3b5998;
+}
+.prof_img
+{
+	width: 40px;
+	height: 50px;
+}
+.pad_1
+{
+	padding-top: 1%;
+	padding-bottom:1%;
+	margin-left: 3%;
+}
+.pro_pad_2
+{
+	padding-top: 20px;
+	padding-bottom: 1%;
+}
+.pro_img_2
+{
+	width: 20px;
+	height:20px;
+}
+.pad_3
+{
+	
+		margin-left:3px;
+		margin-top:5px;
+}
+.pro_name_pad
+{
+	margin-top:8px;
+}
+.pad1_bottom
+{
+	padding-bottom: 70px;
+}
+.pad2_bottom
+{
+	padding-bottom: 30%;
+}
+.pad_left{
+	margin-left:50px;
+	margin-top: 8px;
+}
+
+
