@@ -166,3 +166,43 @@ padding-top: 10px;
 }
 
 
+.headverify
+{
+	background-color:#3b5998; 
+	width: 90%;
+}
+.pictureverify
+{
+	width:800px;
+	height:130px;
+}
+
+.buttonverify
+{
+	background-color: gray;
+	width:800px;
+	height:40px;
+	color: black;
+	border-color: gray;
+}
+.search_btn
+{
+	width:50px;
+}
+.hidden
+{
+	display:none;
+}
+.file {
+  visibility: hidden;
+  position: absolute;
+}
+.btn_approve
+{
+	background-color:#D4D9E8;
+}
+.btn_post
+{
+	padding-left:20px;
+	background-color:blue;
+}
